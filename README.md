@@ -4,7 +4,7 @@
 
 ## Project Structure
 
-Project3_Trusko_Cheng/  
+Astron1221-Project3/  
 │  
 
 ├── Project3_Trusko_Cheng.ipynb  
