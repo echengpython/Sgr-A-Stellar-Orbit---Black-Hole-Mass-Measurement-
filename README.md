@@ -4,11 +4,14 @@
 
 ## Project Structure
 
-Project3_Trusko_Cheng/
-│
-├── Project3_Trusko_Cheng.ipynb
-├── requirements.txt
-└── README.md
+Project3_Trusko_Cheng/  
+│  
+
+├── Project3_Trusko_Cheng.ipynb  
+
+├── requirements.txt  
+
+└── README.md  
 
 
 ## Installation
